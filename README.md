@@ -4,8 +4,8 @@ This is just a list of my main repositories on github.
 
 * <https://github.com/chrplr/PCBS/>
 * <https://github.com/chrplr/openlexicon>
-* <https://github.com/chrplr/linux_tips>
-* <https://github.com/bbtkv_python>
+* <https://github.com/chrplr/linux-tips>
+* <https://github.com/bbtkv2_python>
 * <https://github.com/chrplr/statistics_with_R>
 * <https://github.com/chrplr/audiovis>
 * <https://github.com/chrplr/shuffle>
