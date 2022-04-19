@@ -6,6 +6,7 @@ This is just a list of some of my projects on github.
 * <https://chrplr.github.io/openlexicon>
 * <https://chrplr-linux-tips.rtfd.io>
 * <https://bbtkv2.rtfd.io>
+* <https://github.com/chrplr/statsutils>
 * <https://github.com/chrplr/statistics_with_R>
 * <https://chrplr.github.io/audiovis>
 * <https://chrplr.github.io/shuffle>
