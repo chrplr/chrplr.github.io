@@ -2,10 +2,10 @@
 
 This is just a list of some of my projects on github.
 
-* <https://pcbs.rtfd.io>  
 * <https://chrplr.github.io/openlexicon>
+* <https://github.com/chrplr/bbtkv2_python>
+* <https://pcbs.rtfd.io>  
 * <https://chrplr-linux-tips.rtfd.io>
-* <https://bbtkv2.rtfd.io>
 * <https://chrplr.github.io/statsutils>
 * <https://github.com/chrplr/statistics_with_R>
 * <https://chrplr.github.io/audiovis>
