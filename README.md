@@ -1,20 +1,20 @@
-# chrplr.github.io
+### Hi there  👋 
 
-This is just a list of some of my projects on github.
+Welcome to my github page, containing code and documents that may be of interest to others. 
 
-* <https://chrplr.github.io/openlexicon>
-* <https://github.com/chrplr/bbtkv2_python>
-* <https://pcbs.rtfd.io>  
-* <https://chrplr-linux-tips.rtfd.io>
-* <https://chrplr.github.io/statsutils>
-* <https://github.com/chrplr/statistics_with_R>
-* <https://chrplr.github.io/audiovis>
-* <https://chrplr.github.io/shuffle>
-* <https://github.com/chrplr/install_spm12>
+* OpenLexicon: Easy access to lexical databases <https://chrplr.github.io/openlexicon> 
+* Programming for Cognitive and Brain Sciences <https://pcbs.rtfd.io>  
+* bbtkv2: Python module to acquire timing data using the blackboxtoolkit v2   <https://bbtkv2.readthedocs.io/en/latest/intro.html>
+* Linux tips <https://chrplr-linux-tips.readthedocs.io/en/latest/>
+* Audiovis: a general audio visual stimulus presentation script using expyriment<https://chrplr.github.io/audiovis>
+* Shuffle: a program to randomize lists with optional sequential constraints<https://chrplr.github.io/shuffle>
+* Examples of basic statistical analyses with R<https://github.com/chrplr/statistics_with_R>
+* Statutils: ommand-line tools to perform simple statistical data manipulations and analyses from data stored in text files <https://chrplr.github.io/statsutils>
+* install_spm12: script to install spm12's standalone version<https://github.com/chrplr/install_spm12>
 
-* check my [Homepage](http://www.pallier.org)
-* Send me an email: <mailto:christophe@pallier.org>
 
----
+More stuff is available on my [homepage](http://www.pallier.org)
 
-Time-stamp: <2019-04-06 14:44:40 christophe@pallier.org>
+--
+Christophe Pallier
+
